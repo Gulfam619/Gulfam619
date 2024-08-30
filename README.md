@@ -22,7 +22,7 @@
 
 ###
 
-<h6 align="left">I'm passionate about problem-solving , enjoy hunting down and fixing bugs , and love assisting others with their programming challenges 👨‍💻. Occasionally, I share insights and tips about coding on LinkedIn 💻.</h6>
+<h6 align="left">I'm passionate about problem-solving , enjoy hunting down and fixing bugs , and love assisting others with their programming challenges 👨‍💻. <br/> Occasionally, I share insights and tips about coding on LinkedIn 💻.</h6>
 
 ###
 
