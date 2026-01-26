@@ -75,13 +75,18 @@
 ###
 
 <div align="left">
- 
-  <a href="https://www.linkedin.com/in/gulfam-haider-861016291/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="40" alt="linkedin logo"  />
+    <a href="https://www.fiverr.com/gulfam207?source=gig_page" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/fiverr/default.svg" width="48" height="40" alt="fiverr logo" />
   </a>
+  
+  <a href="https://www.linkedin.com/in/gulfam-haider-861016291/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="40" alt="linkedin logo" />
+  </a>
+
   <a href="https://www.instagram.com/gulfam_janjiyana/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="40" alt="instagram logo" />
   </a>
 </div>
+
 
 ###
