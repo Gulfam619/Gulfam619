@@ -76,7 +76,7 @@
 
 <div align="left">
     <a href="https://www.fiverr.com/gulfam207?source=gig_page" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/fiverr/default.svg" width="48" height="40" alt="fiverr logo" />
+    <img src="https://static.vecteezy.com/system/resources/previews/025/732/716/non_2x/fiverr-logo-icon-online-platform-for-freelancers-free-vector.jpg" width="48" height="40" alt="fiverr logo" />
   </a>
   
   <a href="https://www.linkedin.com/in/gulfam-haider-861016291/" target="_blank">
