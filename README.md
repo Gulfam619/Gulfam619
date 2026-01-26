@@ -8,13 +8,13 @@
 
 ###
 
-<h6 align="center">Visitor Counter</h6>
+<!-- <h6 align="center">Visitor Counter</h6>
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Gulfam619/count.svg?"  />
-</div>
+</div> -->
 
 ###
 
